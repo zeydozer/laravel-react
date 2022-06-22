@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+}
+.form-control {
+  margin-bottom: .5rem;
+  background-color: #fff;
+}
+textarea {
+  resize: none;
+}
+#data-form .react-tel-input .form-control {
+  width: 100%;
+  margin-bottom: .5rem !important;
+}
